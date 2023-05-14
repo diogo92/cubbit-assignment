@@ -60,8 +60,8 @@ Implemented in test/, one for the controller and one for the service, they test 
 ## Starting the Project:
 ### To start the project, follow these steps:
 
-Clone the repository and navigate to the project directory.
-Run npm install to install dependencies.
-Run npm run build to build the TypeScript files.
-Run docker-compose up to download and start the mongodb image as well as to build the project image
-Use the AWS CLI to interact with the API endpoints.
+    Clone the repository and navigate to the project directory.
+    Run npm install to install dependencies.
+    Run npm run build to build the TypeScript files.
+    Run docker-compose up to download and start the mongodb image as well as to build the project image
+    Use the AWS CLI to interact with the API endpoints.
